@@ -9,10 +9,10 @@ I was asked to design a website for a graduation project . My teacher asked me t
     - [React Router](https://reactrouter.com/en/main)
 
 - BackEnd
-    -[gofiber](https://docs.gofiber.io/)
-    -[go-jwt](github.com/golang-jwt/jwt/v5)
-    -[gorm](gorm.io/gorm)
-    -[Mysql](https://www.mysql.com/)
+    - [gofiber](https://docs.gofiber.io/)
+    - [go-jwt](github.com/golang-jwt/jwt/v5)
+    - [gorm](gorm.io/gorm)
+    - [Mysql](https://www.mysql.com/)
 
 ### Weaknesses of the project
 - MySQL was difficult to use as I am used to using mongodb. While writing data to the front end, data that should not be sent unnecessarily has been sent.
