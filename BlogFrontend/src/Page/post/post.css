@@ -1,0 +1,38 @@
+.post_row_sp {
+    height: 750px;
+}
+
+.post_container_sp {
+    position: relative;
+    left: 170px;
+    padding: 100px 100px 100px 100px;
+}
+
+.post_profile_img_sp {
+    max-width: 45px;
+}
+
+.post_comment_like_button {
+    all: unset;
+    display: inline-block;
+}
+
+.post_comment_txt {
+    overflow-wrap: break-word;
+}
+
+.post_profile_sp {
+    height: 55px;
+}
+
+.post_comment_row {
+
+    max-height: 534px;
+    min-height: 534px;
+    overflow-y: scroll !important;
+    overflow-x: hidden;
+}
+
+.post_span_like_sp {
+    margin: 20px 0px 0px 20px;
+}

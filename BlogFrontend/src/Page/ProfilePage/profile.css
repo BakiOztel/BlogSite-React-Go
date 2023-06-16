@@ -1,0 +1,56 @@
+.profile_setting_b {
+    max-width: 5%;
+}
+
+.profile_cont {
+    min-height: 1080px;
+}
+
+.profile_setting_pd {
+    min-width: 20% !important;
+    max-width: 25% !important;
+}
+
+.profile_name {
+    max-width: 12%;
+}
+
+.profile_stat {
+    width: 455px
+}
+
+.profile_post_ımg {
+    object-fit: cover;
+    object-position: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.profile_post_container:hover .overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.profile_pp_img {
+    max-width: 240px;
+}

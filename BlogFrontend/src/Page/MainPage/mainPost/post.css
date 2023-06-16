@@ -1,0 +1,23 @@
+.post_img_top {
+    height: 50px;
+    width: 50px;
+}
+
+.post {
+    max-width: 650px;
+    max-height: 800px;
+    box-shadow: 35px 15px 15px 15px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+
+}
+
+.post_img_main {
+    min-height: 75%;
+    max-height: 75%;
+    object-fit: cover;
+    object-position: center;
+}
+
+* {
+    color: white;
+}
